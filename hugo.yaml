@@ -1,4 +1,10 @@
-baseURL: https://example.org/
+baseURL: /
 locale: en-us
 title: My Personal Blog
 theme: ["WonderMod"]
+
+markup:
+  highlight:
+    style: dracula
+    noClasses: false
+    guessSyntax: true
