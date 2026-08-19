@@ -1,7 +1,7 @@
 baseURL: /
 locale: en-us
 title: My Personal Blog
-theme: ["WonderMod"]
+theme: ["PaperMod"]
 
 markup:
   highlight:

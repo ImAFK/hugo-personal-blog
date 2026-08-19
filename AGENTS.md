@@ -16,10 +16,10 @@ hugo
 hugo new posts/my-post-title.md
 ```
 
-## Theme: WonderMod
+## Theme: PaperMod
 
-- Git submodule at `themes/WonderMod/` — fork of PaperMod with no inline JS/styles (strict CSP compatible).
-- Tracks upstream `heads/master`, not a pinned tag.
+- Git submodule at `themes/PaperMod/` — actively maintained, Hugo v0.124+ compatible.
+- Previously WonderMod; switched due to `.Site.Social` removal in Hugo v0.124.
 - For syntax highlighting, add to `hugo.yaml`:
   ```yaml
   markup:
